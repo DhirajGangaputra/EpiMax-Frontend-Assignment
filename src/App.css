@@ -1,0 +1,19 @@
+.app-container{
+  background-color: rgba(8, 8, 8, 0.856);
+  display:flex;
+  min-height: 100vh;
+}
+.form-section{
+  background-color: black;
+  padding:20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading{
+  color:tomato;
+  font-size:42px;
+  font-weight: 500;
+  font-family: Roboto;
+}
